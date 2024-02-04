@@ -1,0 +1,14 @@
+/*font-family: 'Mali', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: boldS;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
